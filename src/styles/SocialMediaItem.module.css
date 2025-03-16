@@ -1,0 +1,24 @@
+.item {
+  color: white;
+  padding: 0.5em;
+  border: 2px solid white;
+  border-radius: 0.5em;
+  display: flex;
+  align-items: center;
+  width: 350px;
+  gap: 10px;
+  padding-left: 35%;
+}
+
+.item:hover {
+  color: black;
+  background-color: white;
+  cursor: pointer;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.2rem;
+}
