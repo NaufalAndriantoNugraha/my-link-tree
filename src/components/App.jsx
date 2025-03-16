@@ -8,7 +8,7 @@ export default function App() {
       <Profile
         title="Naufal Andrianto Nugraha"
         description="Mahasiswa | Web Developer"
-        imagePath="/src/assets/profile_photo.jpg"
+        imagePath="/assets/profile_photo.jpg"
         imageAlt="Photo of Naufal Andrianto Nugraha"
       />
       <SocialMedia />

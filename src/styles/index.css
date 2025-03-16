@@ -15,7 +15,7 @@ body {
   width: 100vw;
   height: 100vh;
   overflow: hidden;
-  background-image: url('../assets/mount_fuji.jpg');
+  background-image: url('/assets/mount_fuji.jpg');
   background-size: cover;
   display: flex;
   justify-content: center;

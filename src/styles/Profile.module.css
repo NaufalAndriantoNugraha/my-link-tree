@@ -11,6 +11,7 @@
   width: 100px;
   height: 100px;
   object-fit: cover;
+  box-shadow: 1px 1px 10px black;
 }
 
 .title {
