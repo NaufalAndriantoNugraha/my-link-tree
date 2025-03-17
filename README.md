@@ -1,12 +1,16 @@
-# React + Vite
+# My Link Tree
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+My Link Tree is, of course, my personal Link Tree web application. It contains my profile photo, name, and social media links.
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* HTML
+* CSS
+* JavaScript
+* React
+* Vite
+* Vercel
 
-## Expanding the ESLint configuration
+## Credit
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Background image: ["Green mountains under white sky during daytime" by Kvnga](https://unsplash.com/photos/green-mountains-under-white-sky-during-daytime-7h1gRWaBiqk)
