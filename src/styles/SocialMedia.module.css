@@ -1,5 +1,12 @@
 .container {
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
   gap: 10px;
+}
+
+@media only screen and (max-width: 770px) {
+  .container {
+    display: flex;
+    flex-direction: column;
+  }
 }
